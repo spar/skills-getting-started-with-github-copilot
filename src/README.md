@@ -16,6 +16,13 @@ A super simple FastAPI application that allows students to view and sign up for 
    pip install fastapi uvicorn
    ```
 
+2. (Optional) To run the automated backend tests you can install the full requirements
+   including `pytest`:
+
+   ```
+   pip install -r ../requirements.txt
+   ```
+
 2. Run the application:
 
    ```
